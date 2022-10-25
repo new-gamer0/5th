@@ -243,6 +243,11 @@ width: 146px;
 font-family: 'Lexend Deca';
 font-size: 15px;
 letter-spacing: 0.3px;
+BACKGROUND-COLOR: white;
+z-index: 99;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 .y::after{
   content: '';
@@ -293,6 +298,11 @@ width: 146px;
 font-family: 'Lexend Deca';
 font-size: 15px;
 letter-spacing: 0.3px;
+BACKGROUND-COLOR: white;
+z-index: 99;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 .a::after{
   content: '';
@@ -345,6 +355,11 @@ width: 146px;
 font-family: 'Lexend Deca';
 font-size: 15px;
 letter-spacing: 0.3px;
+BACKGROUND-COLOR: white;
+z-index: 99;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 body{
   height: 1500px;
